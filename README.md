@@ -27,3 +27,24 @@ Streaming platforms like Netflix have become ubiquitous, and understanding the c
 1. Clone the repository:  
    ```bash  
    git clone https://github.com/karthikeyagandepalli/Netflix-Movie-Data-Analysis.git  
+2.Navigate into the project folder:
+cd Netflix-Movie-Data-Analysis  
+3.Install required packages (if needed):
+pip install pandas numpy matplotlib seaborn  
+4.Launch the Jupyter Notebook:
+jupyter notebook  
+Then open Netflix Movie Data analysis.ipynb.
+
+5.Run each cell in the notebook (in order) to reproduce the analysis.
+6.Explore the dataset (mymoviedb.csv) and feel free to modify/add your own plots or questions.
+
+🔍 Project Highlights
+
+Data cleaning steps: handling missing values, normalizing runtime/genres, etc.
+Exploratory analysis examples:
+Distribution of movie release years.
+Top genres by movie count.
+Relationship between runtime and ratings.
+Ratings trend over time or by genre.
+Visual outputs that communicate key insights in a clear manner.
+Commentary and interpretation of findings (in the notebook) — what the numbers mean.
